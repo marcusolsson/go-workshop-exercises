@@ -1,4 +1,4 @@
-package potion
+package main
 
 import "fmt"
 
