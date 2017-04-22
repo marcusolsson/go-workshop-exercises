@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// STRUCT AND INTERFACE GOES HERE
+// STRUCTS AND INTERFACE GOES HERE
 
 func battle(c warcrier) {
 	fmt.Println(p.warcry())
