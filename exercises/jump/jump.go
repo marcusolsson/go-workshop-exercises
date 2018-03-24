@@ -5,7 +5,8 @@ type player struct {
 }
 
 func (p *player) jump() {
-	// ERROR IF NO STAMINA LEFT
+	// SHOULD RETURN ERROR IF NO STAMINA LEFT
+
 	p.stamina--
 }
 
