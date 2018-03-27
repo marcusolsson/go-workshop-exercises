@@ -7,5 +7,5 @@ These are the exercises that go along with [this workshop](https://github.com/ma
 To install the exercises locally, run the following:
 
 ```
-go get -d github.com/marcusolsson/go-workshop-exercises
+go get -d github.com/marcusolsson/go-workshop-exercises/...
 ```
