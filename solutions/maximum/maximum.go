@@ -10,7 +10,7 @@ func maximum(nums []int) int {
 	return max
 }
 
-// BONUS
+// BONUS!
 func rangeMaximum(nums []int) int {
 	var max int
 	for _, val := range nums {
